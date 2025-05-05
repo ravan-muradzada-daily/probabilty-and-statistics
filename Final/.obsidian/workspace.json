@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "11.P value.md",
+                "file": "14.Linear Regression.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11.P value"
+              "title": "14.Linear Regression"
             }
           }
         ]
@@ -168,26 +168,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4925b9e1a4cf405a",
+  "active": "7513f0619bca7e8f",
   "lastOpenFiles": [
-    "imgs/45.png",
-    "imgs/44.png",
-    "03.Estimating Interval and Confidence Interval.md",
-    "11.P value.md",
-    "imgs/43.png",
-    "imgs/42.png",
-    "imgs/41.png",
-    "10.The stuff that defines sampling distributions.md",
-    "imgs/40.png",
-    "imgs/39.png",
-    "imgs/1.png",
-    "imgs/39.png",
-    "imgs/38.png",
-    "09.Steps to implement Hypothesis test.md",
-    "imgs/37.png",
-    "08.Type 1 and  2 Errors and The power of test.md",
-    "07.Critical Region and value. Test Statistics.md",
+    "imgs/67.png",
+    "imgs/66.png",
+    "13.Chi Square.md",
+    "14.Linear Regression.md",
+    "Untitled",
+    "imgs/65.png",
+    "imgs/64.png",
+    "imgs/63.png",
+    "imgs/62.png",
+    "imgs/61.png",
+    "imgs/60.png",
     "01.Intro.md",
+    "imgs/59.png",
+    "12.ANOVA.md",
+    "imgs/58.png",
+    "11.P value.md",
+    "imgs/57.png",
+    "08.Type 1 and  2 Errors and The power of test.md",
+    "09.Steps to implement Hypothesis test.md",
+    "03.Estimating Interval and Confidence Interval.md",
+    "10.The stuff that defines sampling distributions.md",
+    "07.Critical Region and value. Test Statistics.md",
     "06.Significance level.md",
     "05.Null and Alternative hypothesis.md",
     "04.Hypothesis Testing and its purpose.md",
